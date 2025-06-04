@@ -62,7 +62,7 @@ int main( void )
 
 	// Is on the edge
 	std::cout << "~ A point that is on the edge of the triangle ~" << std::endl << std::endl;
-	const Point point4(4.9, 5);
+	const Point point4(5, 5);
 	const Point a4(0, 0);
 	const Point b4(10, 0);
 	const Point c4(0, 10);
